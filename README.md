@@ -1,6 +1,6 @@
 <h1>ac_light_server</h1>
 
-<b>ac_light_server</b> is an project that alow you to control Ac light through web server in localhost,
+<b>ac_light_server</b> is an project that allow you to control Ac light through web server in localhost,
 
 <b>pre-requisites:</b></br>
 -Arduino card</br>
